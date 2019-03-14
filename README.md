@@ -1,5 +1,5 @@
-# test_user
-Homework Django User 
+# test_user 
+Homework Django User app
 
 <p>Models.py</p> 
 
