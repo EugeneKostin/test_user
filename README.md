@@ -1,5 +1,5 @@
 # test_user 
-Homework Django User app
+Homework Python 3.7.1 Django 2.1.3 User app
 
 <p>Models.py</p> 
 
